@@ -1,0 +1,8 @@
+E:\c#\Учебная практика c#\EducationalPractice\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+E:\c#\Учебная практика c#\EducationalPractice\Lab_3\obj\Debug\Lab_3.csproj.SuggestedBindingRedirects.cache
+E:\c#\Учебная практика c#\EducationalPractice\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+E:\c#\Учебная практика c#\EducationalPractice\Lab_3\bin\Debug\Lab_3.exe.config
+E:\c#\Учебная практика c#\EducationalPractice\Lab_3\bin\Debug\Lab_3.exe
+E:\c#\Учебная практика c#\EducationalPractice\Lab_3\bin\Debug\Lab_3.pdb
+E:\c#\Учебная практика c#\EducationalPractice\Lab_3\obj\Debug\Lab_3.exe
+E:\c#\Учебная практика c#\EducationalPractice\Lab_3\obj\Debug\Lab_3.pdb
